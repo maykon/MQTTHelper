@@ -1,0 +1,31 @@
+#######################################
+# MQTTHelper
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MQTTHelper	KEYWORD1
+MQTTHelper_Subscribe	KEYWORD1
+WiFiClient	KEYWORD1
+PubSubClient	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+connectWifi	KEYWORD2
+connectMQTT	KEYWORD2
+loop	KEYWORD2
+publish	KEYWORD2
+subscribe	KEYWORD2
+unsubscribe	KEYWORD2
+setDebug	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MAXSUBSCRIPTIONS	LITERAL1
+MAXTIMESCONNECTION	LITERAL1
